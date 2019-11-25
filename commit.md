@@ -12,6 +12,6 @@ Your favorite vegetable: carrot
 
 Your favorite color: blue
 
-Your favorite icecream: ...
+Your favorite icecream: citron
 
-Your favorite season: ...
+Your favorite season: spring
