@@ -4,9 +4,9 @@ Please make sure to change me, ok ja will chnge you next week.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: apple
 
-Your favorite city: ...
+Your favorite city: Jihlava
 
 Your favorite vegetable: ...
 
