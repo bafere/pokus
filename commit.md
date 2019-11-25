@@ -8,9 +8,9 @@ Your favorite fruit: apple
 
 Your favorite city: Jihlava
 
-Your favorite vegetable: ...
+Your favorite vegetable: carrot
 
-Your favorite color: ...
+Your favorite color: blue
 
 Your favorite icecream: ...
 
